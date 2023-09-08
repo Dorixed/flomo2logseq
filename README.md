@@ -2,15 +2,15 @@
 
 1. Export an offline html file from flomo. It will automatically generate a folder which named by your username in flomo.
 
-   ![image-20230908182725527](/Users/nreal/Library/Application Support/typora-user-images/image-20230908182725527.png)
+   ![image](https://github.com/Dorixed/flomo2logseq/assets/122142944/4478ec03-db77-496a-89a4-bbbf2a9122dc)
+
 
 2. Run this script in terminal or pycharm to extract the .md files, which are named with the corresponding date.(You need to replace the path of the index.html firstly)
 
 3. Put these generated markdown files into Logseq/journals in your disk.
 
-   ![image-20230908183052425](/Users/nreal/Library/Application Support/typora-user-images/image-20230908183052425.png)
+   ![image](https://github.com/Dorixed/flomo2logseq/assets/122142944/982c823c-09d3-412a-a356-f5d29dfe12c1)
 
-   ![image-20230908182826130](/Users/nreal/Library/Application Support/typora-user-images/image-20230908182826130.png)
 
 4. Put the 'file' folder which contains all the image files in your flomo to logseq/assets.
 
