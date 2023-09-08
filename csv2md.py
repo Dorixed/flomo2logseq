@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import os
 
 # 读取本地HTML文件
-with open('/Users/nreal/Downloads/flomo@俏丽小X-20230905/index.html', 'r', encoding='utf-8') as f:
+with open('/Users/xxx/Downloads/flomo@yourname-20230905/index.html', 'r', encoding='utf-8') as f:
     html_content = f.read()
 
 soup = BeautifulSoup(html_content, 'html.parser')
